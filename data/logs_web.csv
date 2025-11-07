@@ -1,0 +1,16 @@
+timestamp,user_id,url,action,device,country
+2025-11-06 09:15:23,101,/home,view,desktop,France
+2025-11-06 09:16:10,102,/products/item1,click,mobile,Canada
+2025-11-06 09:17:02,103,/login,view,desktop,USA
+2025-11-06 09:17:15,104,/cart/add,add_to_cart,tablet,France
+2025-11-06 09:18:40,101,/checkout,view,desktop,France
+2025-11-06 09:19:01,105,/products/item2,view,mobile,Espagne
+2025-11-06 09:19:15,106,/login,failed_login,mobile,Maroc
+2025-11-06 09:19:35,102,/search,view,tablet,Canada
+2025-11-06 09:20:02,107,/home,view,desktop,Vietnam
+2025-11-06 09:20:44,108,/products/item3,click,mobile,Inde
+2025-11-06 09:21:03,109,/checkout/payment,payment,desktop,USA
+2025-11-06 09:21:55,110,/cart/remove,remove_item,tablet,France
+2025-11-06 09:22:30,101,/logout,view,desktop,France
+2025-11-06 09:23:15,103,/home,view,mobile,USA
+2025-11-06 09:23:47,104,/products/item4,click,tablet,France
